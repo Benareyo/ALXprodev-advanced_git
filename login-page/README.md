@@ -1,1 +1,1 @@
-feature coming soon
+This is the login page.
