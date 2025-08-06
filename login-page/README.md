@@ -1,1 +1,1 @@
-Feature: Implement login page
+This is the login feature page.
