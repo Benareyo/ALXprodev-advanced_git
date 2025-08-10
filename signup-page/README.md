@@ -1,1 +1,2 @@
-This is the sign-up page.
+feature coming soon
+data requirements: email, firstName, lastName, profilePic
